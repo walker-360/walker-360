@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walker-360
+- 👋 Hi, I’m Walker
 - 👀 I’m interested in Programming
 - 📫 How to reach me walker360@proton.me
 
